@@ -1,0 +1,19 @@
+Package: killer
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 22)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Jonas Bernoulli <jonasbernoulli@gmail.com>
+X-Upstream: Jonas Bernoulli <jonas@bernoul.li>
+Upstream-Bugs:
+Vcs-Type: git
+Vcs-Url: git://github.com/tarsius/killer.git
+Vcs-Browser: https://github.com/tarsius/killer/blob/master/killer.el
+Homepage: http://github.com/tarsius/killer
+Wiki:
+Commentary:
+Description: Interactive functions to kill and delete text
+ Kill and delete words and whitespace easily.
