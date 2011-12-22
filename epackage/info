@@ -15,5 +15,5 @@ Vcs-Browser: https://github.com/tarsius/killer/blob/master/killer.el
 Homepage: http://github.com/tarsius/killer
 Wiki:
 Commentary:
-Description: Interactive functions to kill and delete text
+Description: interactive functions to kill and delete text
  Kill and delete words and whitespace easily.
