@@ -12,4 +12,4 @@
 (autoload 'backward-kill-word-or-wspace         "killer" "" t)
 (autoload 'kill-word-or-wspace                  "killer" "" t)
 (autoload 'backward-kill-line                   "killer" "" t)
-(provide 'killer-epkg-autoloads)
+(provide 'killer-epackage-autoloads)
